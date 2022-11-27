@@ -1,5 +1,35 @@
 # fourth-week-homework
 
+
+# Breaking Bad App
+
+This application was developed using the BreakingBad API service.
+
+
+## Features
+
+- MVVM
+- Service Layer
+- Pagination
+- Loading Manager
+
+
+## App Cycle
+
+### - Characters Tab
+- Characters
+    - Character Detail
+        - Quotes of the character
+
+### - Episodes Tab
+- Episodes
+    - Popup for character names
+
+### - IMDB Tab
+- IMDB
+    - WebView
+    
+
 1- https://breakingbadapi.com/  API kullanılarak bir uygulama geliştirilecektir. Aşağıda detaylar verilmiştir.
 --
 
